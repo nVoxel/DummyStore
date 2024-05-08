@@ -15,6 +15,7 @@ Simple product catalog Android app, which uses dummyjson.com
 - Hilt for DI
 - Navigation Compose for navigation
 - Retrofit to receive data from [dummyjson.com](https://dummyjson.com/products)
+- Paging 3 to optimize products loading
 
 # Screenshots
 
